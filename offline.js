@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1493610372,
+	"version": 1493620706,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,12 @@
 		"images/tilemap14.png",
 		"images/tiledbackground5.png",
 		"images/exit-sheet0.png",
+		"images/npc3-sheet0.png",
+		"images/npc4-sheet0.png",
+		"images/npc5-sheet0.png",
+		"images/npc5-sheet1.png",
+		"images/npc6-sheet0.png",
+		"images/npc2_-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
